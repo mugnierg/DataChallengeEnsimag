@@ -1,6 +1,6 @@
 # DataChallengeEnsimag
 
-I use a folder "pred" into the main folder of the project. Also I have "data" folder with different scenario into main folder.
+I use a folder "pred" into the main folder of the project. Also I have "data" folder with different scenario into the main folder.
 
 "predModel.py" - the mean method.
 
